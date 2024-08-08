@@ -1,0 +1,1 @@
+export type HttpType = "GET" | "POST" | "PUT" | "UPDATE" | "DELETE";
